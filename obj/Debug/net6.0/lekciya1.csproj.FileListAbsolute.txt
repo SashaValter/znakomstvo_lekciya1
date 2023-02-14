@@ -1,0 +1,15 @@
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/bin/Debug/net6.0/lekciya1
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/bin/Debug/net6.0/lekciya1.deps.json
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/bin/Debug/net6.0/lekciya1.runtimeconfig.json
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/bin/Debug/net6.0/lekciya1.dll
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/bin/Debug/net6.0/lekciya1.pdb
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.csproj.AssemblyReference.cache
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.AssemblyInfoInputs.cache
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.AssemblyInfo.cs
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.csproj.CoreCompileInputs.cache
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.dll
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/refint/lekciya1.dll
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.pdb
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/lekciya1.genruntimeconfig.cache
+/Users/alinavalter/Desktop/geekBrains/3. Znakomstvo s 9zikami programmirovani9/lekciya1/obj/Debug/net6.0/ref/lekciya1.dll
